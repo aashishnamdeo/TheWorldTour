@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "wwwroot/js/site.es5.js",
+    "inputFile": "wwwroot/js/site.js"
+  },
+  {
+    "outputFile": "wwwroot/js/tripsController.es5.js",
+    "inputFile": "wwwroot/js/tripsController.js"
+  },
+  {
+    "outputFile": "wwwroot/js/tripEditorController.es5.js",
+    "inputFile": "wwwroot/js/tripEditorController.js"
+  }
+]

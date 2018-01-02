@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "aashish.namdeo@yahoo.com"
+  },
+  "ConnectionStrings": {
+    "TheWorldConnection": "Data Source=(localdb)\\ProjectsV13;Initial Catalog=TheWorldTour;Integrated Security=True;MultipleActiveResultSets=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+  },
+  "Keys": {
+    "BingKey": "AmbXQbapRgfECYjmqGkpwcEePwuzYmwSo8RICtmJE_Nfs1EXZfJ9bzSt-raSKwkJ"
+  }
+}
